@@ -1,4 +1,4 @@
-manipulative, 26 yrs old, a student
+manipulative, 27 yrs old, a cognitive neuroscience PhD student in Beijing Normal University
 
 <!---
 manipulative/manipulative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
